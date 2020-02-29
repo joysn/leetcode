@@ -6,3 +6,5 @@ delete_dup_nodes.py  - delete all nodes that have duplicate numbers
 
 topn_toy.py - Yopn toys from tweets
 
+zombie_human.py -  2D grid, each cell is either a zombie 1 or a human 0
+
