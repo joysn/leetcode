@@ -8,3 +8,5 @@ topn_toy.py - Yopn toys from tweets
 
 zombie_human.py -  2D grid, each cell is either a zombie 1 or a human 0
 
+climbing_stairs.py - In how many distinct ways can you climb to the top?
+
