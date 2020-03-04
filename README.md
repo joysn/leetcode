@@ -11,3 +11,6 @@ zombie_human.py -  2D grid, each cell is either a zombie 1 or a human 0
 climbing_stairs.py - In how many distinct ways can you climb to the top?
 
 next_permutation.py - which rearranges numbers into the lexicographically next greater permutation of numbers
+
+permutations2.py - return all possible unique permutations
+
