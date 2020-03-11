@@ -14,3 +14,5 @@ next_permutation.py - which rearranges numbers into the lexicographically next g
 
 permutations2.py - return all possible unique permutations
 
+3sum_2.py -  Find all unique triplets in the array which gives the sum of zero.
+
