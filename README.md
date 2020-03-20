@@ -24,3 +24,4 @@ find_anagram.py - Given a string s and a non-empty string p, find all the start 
 
 speed_of_eating_banana.py - Find the minimum speed of eating bananas
 
+diff_ways_to_add_par.py - return all possible results from computing all the different possible ways to group numbers
