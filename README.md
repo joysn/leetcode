@@ -28,3 +28,6 @@ diff_ways_to_add_par.py - return all possible results from computing all the dif
 
 beautiful_array.py - For every i < j, there is no k with i < k < j such that A[k] * 2 = A[i] + A[j].
 
+max_consecutive_ones.py - Return the length of the longest (contiguous) subarray that contains only 1s. 
+
+
