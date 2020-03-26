@@ -30,4 +30,6 @@ beautiful_array.py - For every i < j, there is no k with i < k < j such that A[k
 
 max_consecutive_ones.py - Return the length of the longest (contiguous) subarray that contains only 1s. 
 
+contiguous_array.py - Given a binary array, find the maximum length of a contiguous subarray with equal number of 0 and 1.
+
 
