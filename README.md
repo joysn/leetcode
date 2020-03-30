@@ -32,4 +32,5 @@ max_consecutive_ones.py - Return the length of the longest (contiguous) subarray
 
 contiguous_array.py - Given a binary array, find the maximum length of a contiguous subarray with equal number of 0 and 1.
 
+redundant_conn.py - Return an edge that can be removed so that the resulting graph is a tree of N nodes
 
