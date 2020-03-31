@@ -34,3 +34,6 @@ contiguous_array.py - Given a binary array, find the maximum length of a contigu
 
 redundant_conn.py - Return an edge that can be removed so that the resulting graph is a tree of N nodes
 
+min_sum_array.py - Given an array of n positive integers and a positive integer s, find the minimal length of a contiguous subarray of which the sum ≥ s
+
+
