@@ -36,4 +36,5 @@ redundant_conn.py - Return an edge that can be removed so that the resulting gra
 
 min_sum_array.py - Given an array of n positive integers and a positive integer s, find the minimal length of a contiguous subarray of which the sum ≥ s
 
+kthsmallest_bst.py - Given a binary search tree, write a function kthSmallest to find the kth smallest element in it.
 
