@@ -38,3 +38,6 @@ min_sum_array.py - Given an array of n positive integers and a positive integer 
 
 kthsmallest_bst.py - Given a binary search tree, write a function kthSmallest to find the kth smallest element in it.
 
+bst_inorder.py - Given a binary tree, return the inorder traversal of its nodes' values.
+
+
