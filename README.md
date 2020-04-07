@@ -40,4 +40,5 @@ kthsmallest_bst.py - Given a binary search tree, write a function kthSmallest to
 
 bst_inorder.py - Given a binary tree, return the inorder traversal of its nodes' values.
 
+bst_postorder.py - Given a binary tree, return the postorder traversal of its nodes' values
 
