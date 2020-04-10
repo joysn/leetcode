@@ -43,3 +43,6 @@ bst_inorder.py - Given a binary tree, return the inorder traversal of its nodes'
 bst_postorder.py - Given a binary tree, return the postorder traversal of its nodes' values
 
 lru_cache.py - Design and implement a data structure for Least Recently Used (LRU) cache
+
+lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) cache.
+
