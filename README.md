@@ -46,3 +46,6 @@ lru_cache.py - Design and implement a data structure for Least Recently Used (LR
 
 lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) cache.
 
+78_subsets.py - return all possible subsets (the power set)
+
+
