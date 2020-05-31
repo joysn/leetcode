@@ -50,3 +50,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 354_russian_doll.py - What is the maximum number of envelopes can you Russian doll?
 
+238_product_without_self.py - return array so that output[i] is equal to the product of all except nums[i]
+
+
