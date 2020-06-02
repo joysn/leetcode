@@ -53,3 +53,7 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 238_product_without_self.py - return array so that output[i] is equal to the product of all except nums[i]
 
 463_perimeter_island.py - Find the count of 1s which forms the island
+
+493_reverse_pairs.py - Find all reverse pairs , if i < j and nums[i] > 2*nums[j].
+
+
