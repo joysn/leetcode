@@ -56,4 +56,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 493_reverse_pairs.py - Find all reverse pairs , if i < j and nums[i] > 2*nums[j].
 
+300_longest_subsequence.py - find the length of longest increasing subsequence.
 
