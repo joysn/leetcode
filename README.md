@@ -58,3 +58,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 300_longest_subsequence.py - find the length of longest increasing subsequence.
 
+516_longest_palindromic_subsequence.py - the longest palindromic subsequence's length in s
+
