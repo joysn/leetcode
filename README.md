@@ -60,3 +60,4 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 516_longest_palindromic_subsequence.py - the longest palindromic subsequence's length in s
 
+5_longest_palindromic_substring.py - the longest palindromic substring in s
