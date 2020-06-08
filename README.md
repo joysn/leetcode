@@ -64,3 +64,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 647_number_palindromic_substrings.py - count how many palindromic substrings in this string.
 
+98_validate_bin_tree.py - Validate Binary Search Tree
+
