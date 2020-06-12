@@ -71,3 +71,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 1219_path_max_gold.py - Path with Maximum Gold
 
 1353_max_number_events.py - Maximum Number of Events That Can Be Attended
+
+1372_longest_zigzag_path.py -  Longest ZigZag Path in a Binary Tree
