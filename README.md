@@ -75,3 +75,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 1372_longest_zigzag_path.py -  Longest ZigZag Path in a Binary Tree
 
 811_subdomain_visit_count.py -  list of count-paired domains
+
+1266_min_time_visit_all_points.py - Minimum Time Visiting All Points
