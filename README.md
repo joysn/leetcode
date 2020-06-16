@@ -77,3 +77,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 811_subdomain_visit_count.py -  list of count-paired domains
 
 1266_min_time_visit_all_points.py - Minimum Time Visiting All Points
+
+1371_longest_sub_with_even_vowels.py - Find the Longest Substring Containing Vowels in Even Counts
