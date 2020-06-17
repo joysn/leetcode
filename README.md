@@ -79,3 +79,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 1266_min_time_visit_all_points.py - Minimum Time Visiting All Points
 
 1371_longest_sub_with_even_vowels.py - Find the Longest Substring Containing Vowels in Even Counts
+
+881_boats_to_save.py - Numeber of Boats to Save People
+
