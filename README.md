@@ -84,3 +84,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 151_reverse_string.py - Reverse Words in a String
 
+220_contains_duplicate2.py - whether there are exist i,j such that nums[i] - nums[j] <= t and i-j <= k.
+
