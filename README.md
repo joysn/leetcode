@@ -86,3 +86,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 220_contains_duplicate2.py - whether there are exist i,j such that nums[i] - nums[j] <= t and i-j <= k.
 
+219_contains_duplicate1.py - whether there are i,j such that nums[i] = nums[j] and nums[i] - nums[j] <= k
+
