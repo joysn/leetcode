@@ -88,3 +88,4 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 219_contains_duplicate1.py - whether there are i,j such that nums[i] = nums[j] and nums[i] - nums[j] <= k
 
+523_cont_subarray_sum.py - target integer k, check if array has continuous subarray whose sums is multiple of k
