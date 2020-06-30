@@ -100,3 +100,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 64_min_path_sum.py - Min number of path a robot can take in nXn grid, going towards finish
 
+214_shortest_palindrome.py - Shortest Palindrome by adding characters in front of given string
+
+
