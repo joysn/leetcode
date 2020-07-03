@@ -102,5 +102,8 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 214_shortest_palindrome.py - Shortest Palindrome by adding characters in front of given string
 
+336_palindrome_pair.py - find pairs of indices (i, j) in the given list, so that the concatenation of the two words, i.e. words[i] + words[j] is palindrome.
+
+
 73_set_matrix_zeroes.py - Given a m x n matrix, if an element is 0, set its entire row and column to 0. Do it in-place
 
