@@ -104,6 +104,8 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 336_palindrome_pair.py - find pairs of indices (i, j) in the given list, so that the concatenation of the two words, i.e. words[i] + words[j] is palindrome.
 
-
 73_set_matrix_zeroes.py - Given a m x n matrix, if an element is 0, set its entire row and column to 0. Do it in-place
+
+96_unique_binary_tree.py - Given n, how many structurally unique BST's (binary search trees) that store values 1 ... n?
+
 
