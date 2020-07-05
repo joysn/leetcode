@@ -108,4 +108,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 96_unique_binary_tree.py - Given n, how many structurally unique BST's (binary search trees) that store values 1 ... n?
 
+95_unique_binary_tree.py -  generate all structurally unique BST's (binary search trees) that store values 1 ... n
 
