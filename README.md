@@ -114,4 +114,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 49_group_anagrams.py - Given an array of strings, group anagrams together.
 
+274_h_index.py - Find H-index from an array of citations
 
