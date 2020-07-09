@@ -116,3 +116,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 274_h_index.py - Find H-index from an array of citations
 
+275_h_index.py - Compute reaserachers H-index based on given citations
+
+
