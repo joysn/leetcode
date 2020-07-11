@@ -120,3 +120,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 200_number_of_islands.py -  count the number of islands
 
+673_number_of_long_increasing_subsequence.py - find the number of longest increasing subsequence.
+
+
