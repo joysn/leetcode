@@ -122,4 +122,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 673_number_of_long_increasing_subsequence.py - find the number of longest increasing subsequence.
 
+130_surrounded_regions.py -  capture all regions surrounded by 'X'
 
