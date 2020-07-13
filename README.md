@@ -124,3 +124,4 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 130_surrounded_regions.py -  capture all regions surrounded by 'X'
 
+695_max_area_island.py - Find the maximum area of an island in the given 2D array
