@@ -125,3 +125,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 130_surrounded_regions.py -  capture all regions surrounded by 'X'
 
 695_max_area_island.py - Find the maximum area of an island in the given 2D array
+
+954_doubled_pair.py - return true if and only if it is possible to reorder it such that A[2 * i + 1] = 2 * A[2 * i]
+
