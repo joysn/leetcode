@@ -128,3 +128,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 954_doubled_pair.py - return true if and only if it is possible to reorder it such that A[2 * i + 1] = 2 * A[2 * i]
 
+632_smallest_range.py - Smallest Range Covering Elements from K Lists
+
+
