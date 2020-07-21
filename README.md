@@ -131,3 +131,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 632_smallest_range.py - Smallest Range Covering Elements from K Lists
 
 891_sum_subseq.py - Return the sum of the widths of all subsequences of A
+
+576_out_of_boundary.py - Find out the number of paths to move the ball out of grid boundary
+
