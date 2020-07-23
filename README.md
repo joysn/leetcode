@@ -136,4 +136,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 1487_file_name_unique.py - Making File Names Unique
 
+688_knight_probability.py - Return the probability that the knight remains on the board after it has stopped moving k times in n*n chess board.
+
 
