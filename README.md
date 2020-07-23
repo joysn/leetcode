@@ -134,3 +134,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 576_out_of_boundary.py - Find out the number of paths to move the ball out of grid boundary
 
+1487_file_name_unique.py - Making File Names Unique
+
+
