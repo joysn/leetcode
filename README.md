@@ -143,3 +143,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 215_kth_largest_element.py -  Find the kth largest element in an unsorted array
 
 347_top_k_freq_ele.py - Given a non-empty array of integers, return the k most frequent elements
+
+451_sort_char_by_freq.py -  Given a string, sort it in decreasing order based on the frequency of characters.
+
