@@ -146,3 +146,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 451_sort_char_by_freq.py -  Given a string, sort it in decreasing order based on the frequency of characters.
 
+973_k_closest_point.py -  We have a list of points on the plane.  Find the K closest points to the origin (0, 0).
+
+
