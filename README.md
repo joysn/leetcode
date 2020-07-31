@@ -148,4 +148,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 973_k_closest_point.py -  We have a list of points on the plane.  Find the K closest points to the origin (0, 0).
 
+692_top_k_freq_words.py - Given a non-empty list of words, return the k most frequent elements.
 
