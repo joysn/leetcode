@@ -152,3 +152,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 659_split_array_cons_subseq.py - Given an array nums sorted in ascending order, return true if and only if you can split it into 1 or more subsequences such that each subsequence consists of consecutive integers
 
+1296_divide_array_k_consecutive_array.py - Given an array of integers nums and a positive integer k, find whether it's possible to divide this array into sets of k consecutive numbers
+
