@@ -154,3 +154,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 1296_divide_array_k_consecutive_array.py - Given an array of integers nums and a positive integer k, find whether it's possible to divide this array into sets of k consecutive numbers
 
+1488_avoid_flood_city.py - Given lakes and value of day on which it rains.  goal is to avoid the flood in any lake.
+
+
