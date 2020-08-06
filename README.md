@@ -156,4 +156,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 1488_avoid_flood_city.py - Given lakes and value of day on which it rains.  goal is to avoid the flood in any lake.
 
+848_shifting_letters.py  - We have a string S of lowercase letters, and an integer array shifts. Return the final string after all such shifts to S are applied.
+
 
