@@ -164,3 +164,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 1110_delete_node_ret_forest.py - Given the root,  after deleting all nodes with a value in to_delete, return the roots of the trees in remaining forest
 
+1034_coloring_border.py - Given square in the grid and a color, color  border of connected component of that square with the given color, and return the final grid.
+
