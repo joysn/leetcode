@@ -167,3 +167,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 1034_coloring_border.py - Given square in the grid and a color, color  border of connected component of that square with the given color, and return the final grid.
 
 324_wriggle_sort_II.py -  Given an unsorted array nums, reorder it such that nums[0] < nums[1] > nums[2] < nums[3]....
+
+18_4sum.py - Find all unique quadruplets in the array which gives the sum of target
+
