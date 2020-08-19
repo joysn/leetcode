@@ -170,3 +170,4 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 18_4sum.py - Find all unique quadruplets in the array which gives the sum of target
 
+936_stamping_sequence.py - Using given stamp generate a given sequence. Old stamp will get replaced with new stamping characters
