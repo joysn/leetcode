@@ -174,3 +174,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 1329_sort_matrix_diag.py - sort it diagonally in ascending order from the top-left to the bottom-right then return the sorted array.
 
+698_k_equal_sum_subset.py - find whether it's possible to divide this array into k non-empty subsets whose sums are all equal
+
