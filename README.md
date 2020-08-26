@@ -176,3 +176,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 698_k_equal_sum_subset.py - find whether it's possible to divide this array into k non-empty subsets whose sums are all equal
 
+1367_linked_list_binary_tree.py - Return True if all the elements in the linked list starting from the head correspond to some downward path connected in the binary tree
+
