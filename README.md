@@ -178,3 +178,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 1367_linked_list_binary_tree.py - Return True if all the elements in the linked list starting from the head correspond to some downward path connected in the binary tree
 
+842_split_array_fib_seq.py - Split Array into Fibonacci Sequence
+
+
