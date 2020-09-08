@@ -193,3 +193,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 560_subarray_sum_equal_k.py - Subarray Sum Equals K
 
 1497_pairs_div_by_k.py -  Check If Array Pairs Are Divisible by k
+
+416_partition_equal_subset_sum.py - Given a non-empty array containing only positive integers, find if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal
+
