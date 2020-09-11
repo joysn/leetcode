@@ -197,3 +197,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 416_partition_equal_subset_sum.py - Given a non-empty array containing only positive integers, find if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal
 
 654_max_binary_tree.py  - Given an integer array with no duplicates, prepare a max binary tree
+
+306_additive_number.py - Given a string containing only digits '0'-'9', write a function to determine if it's an additive number
+
