@@ -201,3 +201,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 306_additive_number.py - Given a string containing only digits '0'-'9', write a function to determine if it's an additive number
 
 378_kth_smallest_ele.py - Kth Smallest Element in a Sorted Matrix
+
+1233_remove_subfolder.py -  Remove Sub-Folders from the Filesystem
