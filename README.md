@@ -203,3 +203,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 378_kth_smallest_ele.py - Kth Smallest Element in a Sorted Matrix
 
 1233_remove_subfolder.py -  Remove Sub-Folders from the Filesystem
+
+1481_unique_int_after_k_removal.py -  Least Number of Unique Integers after K Removals
