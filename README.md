@@ -205,3 +205,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 1233_remove_subfolder.py -  Remove Sub-Folders from the Filesystem
 
 1481_unique_int_after_k_removal.py -  Least Number of Unique Integers after K Removals
+
+1482_min_num_days_to_make_m_bouquets.py - Find Minimum Number of Days to Make m Bouquets
+
