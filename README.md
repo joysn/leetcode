@@ -211,3 +211,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 148_sort_list.py - Sort a linked list in O(n log n) time using constant space complexity.
 
 1432_max_diff_by_chng_num.py -  Max Difference You Can Get From Changing an Integer
+
+33_search_in_sorted_array.py -  Search in Rotated Sorted Array
