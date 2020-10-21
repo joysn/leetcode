@@ -216,3 +216,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 713_subarray_prod_less_k.py - Subarray Product Less Than K
 
+974_subarray_sums_divisible_by_k.py - Given an array A of integers, return the number of (contiguous, non-empty) subarrays that have a sum divisible by K.
+
+
