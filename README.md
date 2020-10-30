@@ -218,4 +218,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 974_subarray_sums_divisible_by_k.py - Given an array A of integers, return the number of (contiguous, non-empty) subarrays that have a sum divisible by K.
 
+922_sort_array_by_parity.py  -  Sort the array so that whenever A[i] is odd, i is odd; and whenever A[i] is even, i is even
+
 
