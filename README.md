@@ -222,3 +222,4 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 406_queue_reconstruction_by_height.py - Queue Reconstruction by Height based on the inputs (h,k) - h is height, k in the # of people in front of them
 
+315_count_smaller_num_after_self.py - The counts array has the property where counts[i] is the number of smaller elements to the right of nums[i]
