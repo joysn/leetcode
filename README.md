@@ -226,3 +226,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 1365_count_number_smaller_than_current_num.py - Given the array , for each nums[i] find out how many numbers in the array are smaller than it. 
 
+264_ugly_number2.py - Write a program to find the n-th ugly number.Ugly numbers are positive numbers whose prime factors only include 2, 3, 5. 
+
