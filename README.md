@@ -229,3 +229,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 264_ugly_number2.py - Write a program to find the n-th ugly number.Ugly numbers are positive numbers whose prime factors only include 2, 3, 5. 
 
 279_perfect_squares.py -  Given a positive integer n, find the least number of perfect square numbers (for example, 1, 4, 9, 16, ...) which sum to n.
+
+204_count_prime.py - Count the number of prime numbers less than a non-negative number, n.
+
