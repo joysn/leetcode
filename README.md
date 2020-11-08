@@ -232,3 +232,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 204_count_prime.py - Count the number of prime numbers less than a non-negative number, n.
 
+898_bitwise_ors_of_subarr.py - For every (contiguous) subarray B = [A[i], A[i+1], ..., A[j]] (with i <= j), we take the bitwise OR of all the elements in B
+
