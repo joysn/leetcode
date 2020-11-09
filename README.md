@@ -234,3 +234,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 898_bitwise_ors_of_subarr.py - For every (contiguous) subarray B = [A[i], A[i+1], ..., A[j]] (with i <= j), we take the bitwise OR of all the elements in B
 
+998_max_bin_tree2.py - given the root node of a maximum tree: a tree where every node has a value greater than any other value in its subtree.
+
+
