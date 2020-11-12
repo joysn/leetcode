@@ -240,3 +240,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 77_combinations.py - Given two integers n and k, return all possible combinations of k numbers out of 1 ... n.
 
+40_combination_sum2.py - Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sums to target.
+
