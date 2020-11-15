@@ -242,3 +242,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 40_combination_sum2.py - Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sums to target.
 
+1365_count_number_smaller_than_current_num.py - How Many Numbers Are Smaller Than the Current Number
+
