@@ -254,3 +254,6 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 377_combination_sum4.py - Given an integer array with all positive numbers and no duplicates
 
+373_find_k_pairs.py - Find K Pairs with Smallest Sums
+
+
