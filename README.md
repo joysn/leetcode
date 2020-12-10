@@ -256,4 +256,7 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 373_find_k_pairs.py - Find K Pairs with Smallest Sums
 
+1333_filter_restaurants_by_veg.py - Filter Restaurants by Vegan-Friendly, Price and Distance
+
+
 
