@@ -258,5 +258,7 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 1333_filter_restaurants_by_veg.py - Filter Restaurants by Vegan-Friendly, Price and Distance
 
+1404_num_steps_to_reduce_num_to_one.py - Number of Steps to Reduce a Number in Binary Representation to One
+
 
 
