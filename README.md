@@ -260,5 +260,7 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 1404_num_steps_to_reduce_num_to_one.py - Number of Steps to Reduce a Number in Binary Representation to One
 
+147_Insertion_Sort_List.py - Sort a linked list using insertion sort
+
 
 
