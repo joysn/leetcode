@@ -270,3 +270,5 @@ lfu.py -  Design and implement a data structure for Least Frequently Used (LFU) 
 
 leetcode_221_maximal_square.py
 
+leetcode_85_maximal_rectangle.py
+
