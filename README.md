@@ -273,3 +273,5 @@ leetcode_221_maximal_square.py
 leetcode_85_maximal_rectangle.py
 
 leetcode_7_reverse_integer.py
+
+leetcode_9_palindrome_number.py
